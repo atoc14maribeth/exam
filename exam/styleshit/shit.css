@@ -1,0 +1,29 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+header{
+    background-color: #A9A9A9;
+    color: white;
+    height: 50px;
+    font-size: 1.5em;
+    padding: 10px;
+}
+.abc{
+    background-color: 	#D3D3D3;
+    color: white;
+    height: 100px;
+    font-size: 1em;
+    display: flex;
+    padding: 10px;
+}
+.Daminglandi{
+        height:50px;
+        width:120px;
+        border-color:#6495ED;
+        border-radius:10px;
+        background-color:#BCD2EE;
+        margin:auto;
+        text-align:center;
+}
